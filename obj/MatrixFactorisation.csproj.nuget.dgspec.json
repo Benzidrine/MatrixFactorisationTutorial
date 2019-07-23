@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/MatrixFactorisation.csproj": {}
+  },
+  "projects": {
+    "/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/MatrixFactorisation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/MatrixFactorisation.csproj",
+        "projectName": "MatrixFactorisation",
+        "projectPath": "/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/MatrixFactorisation.csproj",
+        "packagesPath": "/Users/benzidrine/.nuget/packages/",
+        "outputPath": "/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/benzidrine/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "http://172.18.1.40:54244/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.ML.Recommender": {
+              "target": "Package",
+              "version": "[0.14.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

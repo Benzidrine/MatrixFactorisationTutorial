@@ -1,0 +1,11 @@
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/bin/Debug/netcoreapp2.2/MatrixFactorisation.deps.json
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/bin/Debug/netcoreapp2.2/MatrixFactorisation.runtimeconfig.json
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/bin/Debug/netcoreapp2.2/MatrixFactorisation.runtimeconfig.dev.json
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/bin/Debug/netcoreapp2.2/MatrixFactorisation.dll
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/bin/Debug/netcoreapp2.2/MatrixFactorisation.pdb
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/Debug/netcoreapp2.2/MatrixFactorisation.csprojAssemblyReference.cache
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/Debug/netcoreapp2.2/MatrixFactorisation.csproj.CoreCompileInputs.cache
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/Debug/netcoreapp2.2/MatrixFactorisation.AssemblyInfoInputs.cache
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/Debug/netcoreapp2.2/MatrixFactorisation.AssemblyInfo.cs
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/Debug/netcoreapp2.2/MatrixFactorisation.dll
+/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/obj/Debug/netcoreapp2.2/MatrixFactorisation.pdb
