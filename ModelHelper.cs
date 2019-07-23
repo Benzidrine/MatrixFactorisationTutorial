@@ -8,11 +8,11 @@ namespace MatrixFactorisation
     public class ModelHelper
     {        
         
-        private static string BaseDataSetRelativePath = @"/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/Data";
+        private static string BaseDataSetRelativePath = @"/Users/[user]/Repos/MLTireweb/MatrixFactorisation/Data";
         private static string TrainingDataRelativePath = $"{BaseDataSetRelativePath}/Amazon0302.txt";
         private static string TrainingDataLocation = Helper.GetAbsolutePath(TrainingDataRelativePath);
 
-        private static string BaseModelRelativePath = @"/Users/benzidrine/Repos/MLTireweb/MatrixFactorisation/Model";
+        private static string BaseModelRelativePath = @"/Users/[user]/Repos/MLTireweb/MatrixFactorisation/Model";
         private static string ModelRelativePath = $"{BaseModelRelativePath}/model.zip";
         private static string ModelPath = Helper.GetAbsolutePath(ModelRelativePath);
         
